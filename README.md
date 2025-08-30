@@ -1,8 +1,5 @@
-# React + Vite
+# Food Recipies
+Food Recipes is a modern landing page designed to showcase delicious recipes with a clean and attractive layout. Built using HTML, CSS, and Tailwind CSS,react, js the page focuses on simplicity, responsiveness, and eye-catching visuals to engage food lovers. It highlights my ability to design appealing static landing pages with a strong user experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live Link
+ - https://cerulean-malasada-5761a5.netlify.app/
